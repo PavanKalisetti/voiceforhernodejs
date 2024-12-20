@@ -1,0 +1,35 @@
+# Node.js dependencies
+/node_modules/
+
+# npm logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# Build output
+/dist
+/build
+
+# IDE or editor files
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.swp
+
+# Vercel settings
+.vercel/
+
+# Other files to ignore (if applicable)
+*.env.local
+*.env.production
